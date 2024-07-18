@@ -23,11 +23,11 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-##GenDiff 
+## GenDiff 
 
 Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
 
-##Brain Games
+## Brain Games
 
 Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers, checking a number for primality.
 <!--
