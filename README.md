@@ -16,7 +16,7 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" target="_blank">
+  <a href="https://cv.hexlet.io/ru/careers/developer/members/1550" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
   
