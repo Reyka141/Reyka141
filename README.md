@@ -16,7 +16,7 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank">
+  <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
   
