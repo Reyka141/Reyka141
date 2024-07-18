@@ -1,24 +1,3 @@
-<style>
-  a {
-    text-decoration: none; /* Убираем подчеркивание */
-    color: inherit; /* Убираем цвет ссылки */
-  }
-  
-  img {
-    border: none; /* Убираем рамку */
-    margin: 0; /* Убираем отступы */
-    padding: 0; /* Убираем внутренние отступы */
-    display: inline-block; /* Убираем дополнительное пространство */
-  }
-  
-  body, div {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-  }
-</style>
-
-
 # Hi👋 My name is Andrii Veduta
 ## Junior Frontend Developer
 Hi there. Seeking an internship or junior frontend position. Motivated and purposeful.
@@ -37,7 +16,7 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow">
+  <a href="https://www.w3.org/TR/CSS/#css" style="text-decoration: none">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
   
