@@ -3,10 +3,15 @@
 Hi there. Seeking an internship or junior frontend position. Motivated and purposeful.
 
 🌍 I'm based in Poland, Szczytnica
+
 ✉️ You can contact me at youdronveduta@gmail.com or telegram: [@reyka141](https://t.me/reyka141)
+
 🧠 I'm learning React JS
+
 ⚡ I love read books
+
 📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/4518)
+
 Skills
 Git JavaScript VS Code React HTML5 CSS3
 
