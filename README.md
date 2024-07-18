@@ -35,6 +35,8 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
   <a href="https://code.visualstudio.com/" style="text-decoration: none" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   </a>&nbsp;
+
+  <a href="https://webpack.js.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" style="max-width: 100%;"></a>
 </div>
 
 ## GenDiff 
