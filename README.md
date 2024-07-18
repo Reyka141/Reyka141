@@ -12,8 +12,9 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 
 📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/4518)
 
-Skills
+## Skills
 Git JavaScript VS Code React HTML5 CSS3
+![image](https://github.com/user-attachments/assets/c3b15833-914f-4c49-b608-88b472a81bb0)
 
 GenDiff 
 
