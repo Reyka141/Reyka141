@@ -1,3 +1,24 @@
+<style>
+  a {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: inherit; /* Убираем цвет ссылки */
+  }
+  
+  img {
+    border: none; /* Убираем рамку */
+    margin: 0; /* Убираем отступы */
+    padding: 0; /* Убираем внутренние отступы */
+    display: inline-block; /* Убираем дополнительное пространство */
+  }
+  
+  body, div {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+</style>
+
+
 # Hi👋 My name is Andrii Veduta
 ## Junior Frontend Developer
 Hi there. Seeking an internship or junior frontend position. Motivated and purposeful.
@@ -44,6 +65,7 @@ Cli- utility that compares two configuration files with each other. The comparis
 ## Brain Games
 
 Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers, checking a number for primality.
+
 <!--
 **Reyka141/Reyka141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
