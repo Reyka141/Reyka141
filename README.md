@@ -16,27 +16,25 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <a href="https://www.w3.org/TR/CSS/#css" style="text-decoration: none">
+  <a href="https://www.w3.org/TR/CSS/#css">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" style="text-decoration: none" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   
-  <a href="https://git-scm.com/" style="text-decoration: none" target="_blank">
+  <a href="https://git-scm.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
   
-  <a href="https://code.visualstudio.com/" style="text-decoration: none" target="_blank">
+  <a href="https://code.visualstudio.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   </a>
-
-  <a href="https://webpack.js.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" style="max-width: 100%;"></a>
 </div>
 
 ## GenDiff 
