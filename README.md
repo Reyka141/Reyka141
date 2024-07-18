@@ -20,19 +20,19 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
   
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" style="text-decoration: none" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   </a>&nbsp;
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   </a>&nbsp;
   
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" style="text-decoration: none" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   </a>&nbsp;
   
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/" style="text-decoration: none" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>
   </a>&nbsp;
 </div>
