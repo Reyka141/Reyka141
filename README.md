@@ -21,6 +21,10 @@ Hi there. Seeking an internship or junior frontend position. Motivated and purpo
   <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"></a>
 
+## [Rss-Reader](https://github.com/Reyka141/Rss-Reader)
+
+Rss Reader is a service for convenient reading and management of RSS feeds from various sources, automatically updating and aggregating new content into a single stream.
+
 ## [Difference calculator](https://github.com/Reyka141/frontend-project-46) 
 
 Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
