@@ -36,7 +36,8 @@ Feel free to check out the projects and skills I've worked on below.
 ### Education
 
 - Hexlet. Course "frontend-developer". 2024 [Certificate](documents/Hexlet%20En.png)
-- Dnipro University of Technology. Bachelor's Degree in Marketing. 
+- State Institution "Luhansk Taras Shevchenko National University"
+- Educational Programme "Software Engineering"
 
 📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/4518)
 
