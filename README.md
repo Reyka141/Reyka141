@@ -1,4 +1,5 @@
-# Hi👋 My name is Andrii Veduta
+
+# Hi👋 My name is Andrii Veduta ✨ Welcome to my profile. ![](https://komarev.com/ghpvc/?username=reyka141&color=483D8B)
 ## Junior Frontend Developer
 Hi there. Seeking an internship or junior frontend position. Motivated and purposeful.
 
