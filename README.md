@@ -22,7 +22,13 @@ Feel free to check out the projects and skills I've worked on below.
 [<img align="left" width="40px" height="40px" src="images/telegram.svg" />](https://t.me/reyka141)
 [<img align="left" width="40px" height="40px" src="images/instagram.svg" />](https://www.instagram.com/and.reyka_/)
 
-🧠 I'm learning React JS
+<br>
+<br>
+
+### ✨ Skills and Tools
+
+<img src="https://img.shields.io/badge/react-483D8B?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=html5&logoColor=rad" /> <img src="https://img.shields.io/badge/CSS3-483D8B?style=for-the-badge&logo=css3&logoColor=blue" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/Jest-483D8B?style=for-the-badge&logo=Jest&logoColor=red" /> 
+
 
 ⚡ I love read books
 
