@@ -12,7 +12,7 @@ Feel free to check out the projects and skills I've worked on below.
 
 #### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
 
-🌍 I'm based in Poland, Szczytnica
+🌍 I'm based in Poland, Piotrków Trybunalski
 
 ### You can contact me by:
 
