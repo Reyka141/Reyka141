@@ -17,7 +17,7 @@ Feel free to check out the projects and skills I've worked on below.
 ### You can contact me by:
 
 [<img align="left" width="40px" height="40px" src="images/linkedin.svg" />](https://www.linkedin.com/in/andrii-veduta-750188317/)
-[<img align="left" width="40px" height="40px" src="images/gmail.svg" />][mail]
+<a href="mailto:vlad@webref.ru">[<img align="left" width="40px" height="40px" src="images/gmail.svg" />]</a>
 [<img align="left" width="40px" height="40px" src="images/whatsapp.svg" />][whatsapp]
 [<img align="left" width="40px" height="40px" src="images/telegram.svg" />][telegram]
 [<img align="left" width="40px" height="40px" src="images/instagram.svg" />][instagram]
