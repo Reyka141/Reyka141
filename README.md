@@ -4,11 +4,23 @@
 ### I'm a Junior frontend developer, crafting user-friendly web interfaces.
 Feel free to check out the projects and skills I've worked on below.
 
-Hi there. Seeking an internship or junior frontend position. Motivated and purposeful.
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Remote+Opportunities" alt="Typing SVG">
+  </a>
+</p>
 
 #### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
 
 🌍 I'm based in Poland, Szczytnica
+
+### You can contact me by:
+
+[<img align="left" width="40px" height="40px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" width="40px" height="40px" src="images/gmail.svg" />][mail]
+[<img align="left" width="40px" height="40px" src="images/whatsapp.svg" />][whatsapp]
+[<img align="left" width="40px" height="40px" src="images/telegram.svg" />][telegram]
+[<img align="left" width="40px" height="40px" src="images/instagram.svg" />][instagram]
 
 ✉️ You can contact me at youdronveduta@gmail.com or telegram: [@reyka141](https://t.me/reyka141)
 
