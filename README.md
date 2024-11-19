@@ -4,13 +4,7 @@
 ### I'm a Junior frontend developer, crafting user-friendly web interfaces.
 Feel free to check out the projects and skills I've worked on below.
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Remote+Opportunities" alt="Typing SVG">
-  </a>
-</p>
 
-#### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
 
 🌍 I'm based in Poland, Piotrków Trybunalski
 
@@ -59,6 +53,14 @@ Cli- utility that compares two configuration files with each other. The comparis
 Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers, checking a number for primality.
 
 <!--
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Remote+Opportunities" alt="Typing SVG">
+  </a>
+</p>
+
+#### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
+
 **Reyka141/Reyka141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
