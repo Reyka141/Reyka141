@@ -1,7 +1,7 @@
 
 ## Hi👋 My name is Andrii Veduta ✨ Welcome to my profile. ![](https://komarev.com/ghpvc/?username=reyka141&color=483D8B)
 
-### I'm a Junior frontend developer, crafting user-friendly web interfaces.
+### I'm a frontend developer, crafting user-friendly web interfaces.
 Feel free to check out the projects and skills I've worked on below.
 
 
