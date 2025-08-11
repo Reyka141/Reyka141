@@ -75,7 +75,7 @@ Admin platform for client onboarding, balance management, and partnership system
 
 ---
 
-### 🔹 [Chat-Slack](https://chat-slack-js00.onrender.com/) — *Pet Project*  
+### 🔹 [Chat-Slack](https://github.com/Reyka141/Chat-Slack) — *Pet Project*  
 Simplified team messenger with REST API, authentication, and WebSockets.  
 
 **Tech:** React, Redux Toolkit, Axios, Socket.io-client, Webpack, Jest, React Router DOM  
