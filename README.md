@@ -1,76 +1,103 @@
+# 👋 Hi, I'm Andrii Veduta
 
-## Hi👋 My name is Andrii Veduta ✨ Welcome to my profile. ![](https://komarev.com/ghpvc/?username=reyka141&color=483D8B)
+💻 **Middle Frontend Developer** | 🌍 Based in Piotrków Trybunalski, Poland  
+📧 **Email:** youdronveduta@gmail.com | 📞 **Phone:** +48 883 193 951  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrii-veduta-750188317)  
+[![GitHub followers](https://img.shields.io/github/followers/Reyka141?style=social)](https://github.com/Reyka141)  
 
-### I'm a frontend developer, crafting user-friendly web interfaces.
-Feel free to check out the projects and skills I've worked on below.
+---
 
+## 🚀 About Me
+Goal-oriented **Frontend Developer** with 1+ year of commercial experience in building **high-load** and **interactive web & mobile applications**.  
+Specialized in **React**, **Next.js**, **TypeScript**, **Redux Toolkit**, and **React Native**.  
 
+💡 **Achievements:**
+- 🚀 Improved application performance by **30%**
+- 🛠 Introduced **Feature-Sliced Design** architecture
+- ⚡ Reduced page load time by **25%**
 
-🌍 I'm based in Poland, Piotrków Trybunalski
+I adapt quickly to new technologies, work effectively in a team, and can independently solve complex problems.
 
-### You can contact me by:
+---
 
-[<img align="left" width="40px" height="40px" src="images/linkedin.svg" />](https://www.linkedin.com/in/andrii-veduta-750188317/)
-<a href="mailto:youdronveduta@gmail.com"><img align="left" width="40px" height="40px" src="images/gmail.svg" /></a>
-[<img align="left" width="40px" height="40px" src="images/whatsapp.svg" />](https://wa.me/380661386922)
-[<img align="left" width="40px" height="40px" src="images/telegram.svg" />](https://t.me/reyka141)
-[<img align="left" width="40px" height="40px" src="images/instagram.svg" />](https://www.instagram.com/and.reyka_/)
+## 🛠 Tech Stack
 
-<br>
-<br>
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![SASS](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=fff)
 
-### ✨ Skills and Tools
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 
-<img src="https://img.shields.io/badge/react-483D8B?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/javascript-483D8B?style=for-the-badge&logo=javascript&logoColor=yellow" /> <img src="https://img.shields.io/badge/HTML5-483D8B?style=for-the-badge&logo=html5&logoColor=rad" /> <img src="https://img.shields.io/badge/CSS3-483D8B?style=for-the-badge&logo=css3&logoColor=blue" /> <img src="https://img.shields.io/badge/git-483D8B?style=for-the-badge&logo=git&logoColor=rad" /> <img src="https://img.shields.io/badge/github-483D8B?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/vscode-483D8B?style=for-the-badge&logo=visualstudiocode&logoColor=blue" /> <img src="https://img.shields.io/badge/Jest-483D8B?style=for-the-badge&logo=Jest&logoColor=red" /> <img src="https://img.shields.io/badge/typescript-483D8B?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+**Testing:**  
+![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
+![React Testing Library](https://img.shields.io/badge/RTL-E33332?logo=testing-library&logoColor=fff)
 
-### 👩‍💻 Studing now
+**Tools:**  
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 
- RactNative(EXPO)
+---
 
-### Education
+## 📂 Featured Projects
 
-- Hexlet. Course "frontend-developer". 2024 [Certificate](documents/Hexlet%20En.png)
-- State Institution "Luhansk Taras Shevchenko National University"
-- Educational Programme "Software Engineering"
+### 🔹 [CommBoost](https://commboost.ru/) — *Frontend Developer*  
+*Dec 2024 – Jun 2025*  
+Platform for analyzing phone calls and managing customer communications with AI features, CRM integrations, and dashboards.  
 
-📋 This is my [Hexlet CV](https://cv.hexlet.io/ru/resumes/4518)
+**Tech:** React, TypeScript, Redux Toolkit, Vite, Styled Components, SCSS, RSuite, React Router  
+**Highlights:**  
+- Organized architecture using **Feature-Sliced Design**  
+- Migrated state management to **Redux Toolkit** with RTK Query  
+- Implemented **protected routes** with token validation
 
-## [Chat-Slack](https://github.com/Reyka141/Chat-Slack)
+---
 
-Chat (Slack) is a simplified version of a real-time messaging application designed for team collaboration.
-This project demonstrates the use of key technologies in modern frontend development.
+### 🔹 CommBoost Admin — *Frontend Developer*  
+*Dec 2024 – Jun 2025*  
+Admin platform for client onboarding, balance management, and partnership system.  
 
-## [Rss-Reader](https://github.com/Reyka141/Rss-Reader)
+**Tech:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS, next-int  
+**Highlights:**  
+- Built environment from scratch  
+- Integrated **authentication & role-based access**  
+- Designed **responsive UI** for all devices
 
-Rss Reader is a service for convenient reading and management of RSS feeds from various sources, automatically updating and aggregating new content into a single stream.
+---
 
-## [Difference calculator](https://github.com/Reyka141/frontend-project-46) 
+### 🔹 [Chat-Slack](https://chat-slack-js00.onrender.com/) — *Pet Project*  
+Simplified team messenger with REST API, authentication, and WebSockets.  
 
-Cli- utility that compares two configuration files with each other. The comparison result can be output in different formats. Available file extensions: .json, .yml, yaml.
+**Tech:** React, Redux Toolkit, Axios, Socket.io-client, Webpack, Jest, React Router DOM  
+**Highlights:**  
+- Real-time chat via **WebSockets**  
+- Authentication & routing
 
-## [Brain Games](https://github.com/Reyka141/frontend-project-44)
+---
 
-Console application of 5 different mini-games that include tasks such as checking a number for parity, arithmetic operations, finding the greatest common divisor, continuing a series of numbers, checking a number for primality.
+## 🎓 Education
+- 🎓 **Hexlet** — Frontend Developer *(Feb 2024 – Sep 2024)*  
+- 🎓 **Taras Shevchenko National University of Luhansk** — Software Engineer *(Sep 2021 – Jun 2024)*  
 
-<!--
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=483D8B&random=false&width=600&lines=Seeking+Remote+Opportunities" alt="Typing SVG">
-  </a>
-</p>
+---
 
-#### ✈️ **Open to relocation** | 💻 **Ready to work remotely**
+## 🌐 Languages
+- 🇬🇧 English — B1  
+- 🇺🇦 Ukrainian — Native  
+- 🇷🇺 Russian — Native  
+- 🇵🇱 Polish — A2  
 
-**Reyka141/Reyka141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 *Open to new opportunities as a Middle Frontend Developer.*  
