@@ -2,7 +2,7 @@
 
 💻 **Middle Frontend Developer** | 🌍 Based in Piotrków Trybunalski, Poland  
 📧 **Email:** youdronveduta@gmail.com | 📞 **Phone:** +48 883 193 951  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrii-veduta-750188317)  [![GitHub followers](https://img.shields.io/github/followers/Reyka141?style=social)](https://github.com/Reyka141)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/andrii-veduta-750188317)  [![GitHub followers](https://img.shields.io/github/followers/Reyka141?style=social)](https://github.com/Reyka141) ![](https://komarev.com/ghpvc/?username=reyka141&color=483D8B)
 
 ---
 
